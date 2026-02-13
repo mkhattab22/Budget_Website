@@ -1,0 +1,287 @@
+{
+  "year": 2024,
+  "federal": {
+    "year": 2024,
+    "jurisdiction": "federal",
+    "brackets": [
+      {"threshold": 0, "rate": 0.15},
+      {"threshold": 53359, "rate": 0.205},
+      {"threshold": 106717, "rate": 0.26},
+      {"threshold": 165430, "rate": 0.29},
+      {"threshold": 235675, "rate": 0.33}
+    ],
+    "basic_personal_amount": 15000,
+    "surtaxes": null,
+    "credits": null,
+    "metadata": {
+      "source": "Canada Revenue Agency 2024",
+      "citation": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/canadian-income-tax-rates-individuals-current-previous-years.html",
+      "notes": "Federal tax brackets for 2024"
+    }
+  },
+  "provincial": {
+    "ON": {
+      "year": 2024,
+      "jurisdiction": "ON",
+      "brackets": [
+        {"threshold": 0, "rate": 0.0505},
+        {"threshold": 49231, "rate": 0.0915},
+        {"threshold": 98463, "rate": 0.1116},
+        {"threshold": 150000, "rate": 0.1216},
+        {"threshold": 220000, "rate": 0.1316}
+      ],
+      "basic_personal_amount": 11865,
+      "surtaxes": null,
+      "credits": null,
+      "metadata": {
+        "source": "Ontario Ministry of Finance 2024",
+        "citation": "https://www.ontario.ca/page/ontario-personal-income-tax",
+        "notes": "Ontario tax brackets for 2024"
+      }
+    },
+    "QC": {
+      "year": 2024,
+      "jurisdiction": "QC",
+      "brackets": [
+        {"threshold": 0, "rate": 0.14},
+        {"threshold": 49275, "rate": 0.19},
+        {"threshold": 98540, "rate": 0.24},
+        {"threshold": 119910, "rate": 0.2575}
+      ],
+      "basic_personal_amount": 17783,
+      "surtaxes": null,
+      "credits": null,
+      "metadata": {
+        "source": "Revenu Québec 2024",
+        "citation": "https://www.revenuquebec.ca/en/citizens/tax-rates/",
+        "notes": "Quebec tax brackets for 2024"
+      }
+    },
+    "AB": {
+      "year": 2024,
+      "jurisdiction": "AB",
+      "brackets": [
+        {"threshold": 0, "rate": 0.10},
+        {"threshold": 148269, "rate": 0.12},
+        {"threshold": 177922, "rate": 0.13},
+        {"threshold": 237230, "rate": 0.14},
+        {"threshold": 355845, "rate": 0.15}
+      ],
+      "basic_personal_amount": 21385,
+      "surtaxes": null,
+      "credits": null,
+      "metadata": {
+        "source": "Alberta Treasury Board and Finance 2024",
+        "citation": "https://www.alberta.ca/personal-income-tax",
+        "notes": "Alberta tax brackets for 2024"
+      }
+    },
+    "BC": {
+      "year": 2024,
+      "jurisdiction": "BC",
+      "brackets": [
+        {"threshold": 0, "rate": 0.0506},
+        {"threshold": 45654, "rate": 0.077},
+        {"threshold": 91310, "rate": 0.105},
+        {"threshold": 104835, "rate": 0.1229},
+        {"threshold": 127299, "rate": 0.147},
+        {"threshold": 172602, "rate": 0.168},
+        {"threshold": 240716, "rate": 0.205}
+      ],
+      "basic_personal_amount": 11881,
+      "surtaxes": null,
+      "credits": null,
+      "metadata": {
+        "source": "BC Ministry of Finance 2024",
+        "citation": "https://www2.gov.bc.ca/gov/content/taxes/income-taxes/personal",
+        "notes": "British Columbia tax brackets for 2024"
+      }
+    },
+    "MB": {
+      "year": 2024,
+      "jurisdiction": "MB",
+      "brackets": [
+        {"threshold": 0, "rate": 0.108},
+        {"threshold": 36842, "rate": 0.1275},
+        {"threshold": 79625, "rate": 0.174}
+      ],
+      "basic_personal_amount": 15000,
+      "surtaxes": null,
+      "credits": null,
+      "metadata": {
+        "source": "Manitoba Finance 2024",
+        "citation": "https://www.gov.mb.ca/finance/taxation/incometax.html",
+        "notes": "Manitoba tax brackets for 2024"
+      }
+    },
+    "SK": {
+      "year": 2024,
+      "jurisdiction": "SK",
+      "brackets": [
+        {"threshold": 0, "rate": 0.105},
+        {"threshold": 49720, "rate": 0.125},
+        {"threshold": 142058, "rate": 0.145}
+      ],
+      "basic_personal_amount": 17373,
+      "surtaxes": null,
+      "credits": null,
+      "metadata": {
+        "source": "Saskatchewan Finance 2024",
+        "citation": "https://www.saskatchewan.ca/residents/taxes",
+        "notes": "Saskatchewan tax brackets for 2024"
+      }
+    },
+    "NS": {
+      "year": 2024,
+      "jurisdiction": "NS",
+      "brackets": [
+        {"threshold": 0, "rate": 0.0879},
+        {"threshold": 29590, "rate": 0.1495},
+        {"threshold": 59180, "rate": 0.1667},
+        {"threshold": 93000, "rate": 0.175},
+        {"threshold": 150000, "rate": 0.21}
+      ],
+      "basic_personal_amount": 8481,
+      "surtaxes": null,
+      "credits": null,
+      "metadata": {
+        "source": "Nova Scotia Finance 2024",
+        "citation": "https://novascotia.ca/finance/en/home/taxation",
+        "notes": "Nova Scotia tax brackets for 2024"
+      }
+    },
+    "NB": {
+      "year": 2024,
+      "jurisdiction": "NB",
+      "brackets": [
+        {"threshold": 0, "rate": 0.094},
+        {"threshold": 47715, "rate": 0.14},
+        {"threshold": 95431, "rate": 0.16},
+        {"threshold": 176756, "rate": 0.195}
+      ],
+      "basic_personal_amount": 12558,
+      "surtaxes": null,
+      "credits": null,
+      "metadata": {
+        "source": "New Brunswick Finance 2024",
+        "citation": "https://www2.gnb.ca/content/gnb/en/departments/finance.html",
+        "notes": "New Brunswick tax brackets for 2024"
+      }
+    },
+    "NL": {
+      "year": 2024,
+      "jurisdiction": "NL",
+      "brackets": [
+        {"threshold": 0, "rate": 0.087},
+        {"threshold": 41457, "rate": 0.145},
+        {"threshold": 82913, "rate": 0.158},
+        {"threshold": 148027, "rate": 0.178},
+        {"threshold": 207239, "rate": 0.198},
+        {"threshold": 264750, "rate": 0.208},
+        {"threshold": 529500, "rate": 0.213},
+        {"threshold": 1059000, "rate": 0.218}
+      ],
+      "basic_personal_amount": 10249,
+      "surtaxes": null,
+      "credits": null,
+      "metadata": {
+        "source": "Newfoundland and Labrador Finance 2024",
+        "citation": "https://www.gov.nl.ca/fin/tax-programs-incentives/",
+        "notes": "Newfoundland and Labrador tax brackets for 2024"
+      }
+    },
+    "PE": {
+      "year": 2024,
+      "jurisdiction": "PE",
+      "brackets": [
+        {"threshold": 0, "rate": 0.098},
+        {"threshold": 31984, "rate": 0.138},
+        {"threshold": 63969, "rate": 0.167}
+      ],
+      "basic_personal_amount": 13250,
+      "surtaxes": null,
+      "credits": null,
+      "metadata": {
+        "source": "Prince Edward Island Finance 2024",
+        "citation": "https://www.princeedwardisland.ca/en/topic/finance",
+        "notes": "Prince Edward Island tax brackets for 2024"
+      }
+    },
+    "NT": {
+      "year": 2024,
+      "jurisdiction": "NT",
+      "brackets": [
+        {"threshold": 0, "rate": 0.059},
+        {"threshold": 48326, "rate": 0.086},
+        {"threshold": 96655, "rate": 0.122},
+        {"threshold": 157139, "rate": 0.1405}
+      ],
+      "basic_personal_amount": 16593,
+      "surtaxes": null,
+      "credits": null,
+      "metadata": {
+        "source": "Northwest Territories Finance 2024",
+        "citation": "https://www.fin.gov.nt.ca/en",
+        "notes": "Northwest Territories tax brackets for 2024"
+      }
+    },
+    "NU": {
+      "year": 2024,
+      "jurisdiction": "NU",
+      "brackets": [
+        {"threshold": 0, "rate": 0.04},
+        {"threshold": 50877, "rate": 0.07},
+        {"threshold": 101754, "rate": 0.09},
+        {"threshold": 165429, "rate": 0.115}
+      ],
+      "basic_personal_amount": 17925,
+      "surtaxes": null,
+      "credits": null,
+      "metadata": {
+        "source": "Nunavut Finance 2024",
+        "citation": "https://www.gov.nu.ca/finance",
+        "notes": "Nunavut tax brackets for 2024"
+      }
+    },
+    "YT": {
+      "year": 2024,
+      "jurisdiction": "YT",
+      "brackets": [
+        {"threshold": 0, "rate": 0.064},
+        {"threshold": 53359, "rate": 0.09},
+        {"threshold": 106717, "rate": 0.109},
+        {"threshold": 165430, "rate": 0.128},
+        {"threshold": 500000, "rate": 0.15}
+      ],
+      "basic_personal_amount": 15500,
+      "surtaxes": null,
+      "credits": null,
+      "metadata": {
+        "source": "Yukon Finance 2024",
+        "citation": "https://yukon.ca/en/taxes",
+        "notes": "Yukon tax brackets for 2024"
+      }
+    }
+  },
+  "cpp_ei": {
+    "year": 2024,
+    "cpp_rate": 0.0595,
+    "cpp_ympe": 68500,
+    "cpp_basic_exemption": 3500,
+    "cpp_max_contrib": 3867.50,
+    "ei_rate": 0.0166,
+    "ei_mie": 63100,
+    "ei_max_contrib": 1047.46,
+    "qpp_rate": 0.0615,
+    "qpp_ympe": 68500,
+    "qpp_max_contrib": 3997.50,
+    "qpip_rate": 0.00494,
+    "qpip_max_contrib": 449.74
+  },
+  "metadata": {
+    "generated": "2024-01-01",
+    "version": "1.0.0",
+    "notes": "Sample tax tables for demonstration purposes. Actual rates may vary. Users should verify with official sources.",
+    "disclaimer": "These are example tax rates for demonstration. For actual tax calculations, use official CRA and provincial revenue agency data."
+  }
+}
