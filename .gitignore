@@ -49,8 +49,9 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Streamlit
-.streamlit/
+# Streamlit - exclude everything except config.toml
+.streamlit/*
+!.streamlit/config.toml
 
 # Logs
 *.log
